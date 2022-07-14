@@ -1,1 +1,2 @@
 hello full house!`          
+test git commit whit comment in a new VSC file
